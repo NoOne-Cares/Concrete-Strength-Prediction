@@ -6,7 +6,8 @@
     --surface-content: #333333;
 }
 article {
-    width: 1920px;
+    width: 100%;
+    max-width: 1080px;
 }
 body {
     display: flex;
