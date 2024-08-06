@@ -93,4 +93,11 @@ The project requires the following Python packages:
 - seaborn
 - tensorflow
 
+## Project Members
+- Sourav Das
+- Masoom Sahu
+- Aditya Ranjan
+- Suman Das
+- Rupsnigdha Kashyap
+- Chayan Gulgulia 
 
