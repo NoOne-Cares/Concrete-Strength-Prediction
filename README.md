@@ -1,5 +1,4 @@
 # Concrete Strength Prediction using Machine Learning
-
 This repository contains the code and resources for predicting the compressive strength of concrete using machine learning techniques. The project includes data preprocessing, model development, and evaluation using both regression and neural network models.
 
 ## Table of Contents
